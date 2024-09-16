@@ -1,0 +1,21 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+}
+
+.item-name {
+  color: black;
+  font-family: "Roboto";
+}
+
+.image-item {
+  height: 250px;
+  width: 250px;
+}
+
+.description {
+  color: green;
+}
